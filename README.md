@@ -1,7 +1,7 @@
 ## Hi there, my name is Sebastian 👋
 ### I'm the owner of Dash Solutions 🚀
 
-I'm a front-end developer based in Denmark, an using languages like:
+I'm a front-end developer based in Denmark, and using languages like:
 * HTML
 * CSS/SCSS
 * JavaScript
