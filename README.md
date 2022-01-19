@@ -15,8 +15,8 @@ I create front-end websites and cross-platform applications.
 
 If you would like to know more, or get in contact with me, here's how to find me:
 
-🌎https://dashxd.dev
-✉️hello@dashxd.dev
+🌎https://dashxd.dev,
+✉️hello@dashxd.dev,
 📞+45 61 30 30 77
 <!--
 **DDDASHXD/DDDASHXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
