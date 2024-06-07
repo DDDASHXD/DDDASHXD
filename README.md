@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+UI/UX Designer and Developer from Denmark🇩🇰
+- 🔭 I’m currently working on Hello Funding - AI Matchmaking between Startups and funding opportunities
+- 🌱 I’m currently learning backend development 🥴
+- 📫 How to reach me: skov@skxv.dev, +45 61 30 30 77
+- 😄 Pronouns: He/Him
