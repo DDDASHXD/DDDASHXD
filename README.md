@@ -18,3 +18,6 @@ UI/UX Designer and Developer from Denmark🇩🇰
 - 🌱 I’m currently learning backend development 🥴
 - 📫 How to reach me: skov@skxv.dev, +45 61 30 30 77
 - 😄 Pronouns: He/Him
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/DDDASHXD/DDDASHXD/blob/main/plink.gif?raw=true');]{x0000}$}
