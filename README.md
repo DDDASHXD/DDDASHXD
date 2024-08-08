@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 UI/UX Designer and Developer from Denmark🇩🇰
-- 🔭 I’m currently working on Hello Funding - AI Matchmaking between Startups and funding opportunities
-- 🌱 I’m currently learning backend development 🥴
+- 💼 I’m currently working at TypoConsult as a web developer
+- 📚 My current personal project is Vyzo - A cool open source, self hostable Notion alternative
+- 🌱 I’m currently learning Typo3
 - 📫 How to reach me: skov@skxv.dev, +45 61 30 30 77
 
 ```math
